@@ -36,7 +36,7 @@ export const genres = {
     { title: "Richard Wagner - Ride of the Valkyries", youtubeId: "GGU1P6lBW6Q" }
   ],
   "Electrónica": [
-    { title: "Daft Punk - Around the World", youtubeId: "LKYPYj2X80" },
+    { title: "Daft Punk - Around the World", youtubeId: "Y_9tXz82DS8" },
     { title: "The Chemical Brothers - Galvanize", youtubeId: "Xu3FTEmN-eg" },
     { title: "Fatboy Slim - Praise You", youtubeId: "6d0dI1n3G44" },
     { title: "Aphex Twin - Windowlicker", youtubeId: "5O_2NA34a-Q" },
@@ -48,7 +48,7 @@ export const genres = {
     { title: "Underworld - Born Slippy", youtubeId: "TlLWFa1b1iE" }
   ],
   "Reggaetón": [
-    { title: "Bad Bunny - Me Porto Bonito", youtubeId: "61hA9n4p_M" },
+    { title: "Bad Bunny - Me Porto Bonito", youtubeId: "_St5MhS_29Y" },
     { title: "Don Omar - Danza Kuduro", youtubeId: "7zp1TbLFPp8" },
     { title: "Daddy Yankee - Gasolina", youtubeId: "N0_M2pDub94" },
     { title: "J Balvin, Willy William - Mi Gente", youtubeId: "wnJ6LuUFpMo" },
