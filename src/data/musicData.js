@@ -1,7 +1,7 @@
 export const genres = {
   "Rock": [
     { title: "Queen - Bohemian Rhapsody", youtubeId: "fJ9rUzIMcZQ" },
-    { title: "Led Zeppelin - Stairway to Heaven", youtubeId: "qFq66_2da4s" },
+    { title: "Led Zeppelin - Stairway to Heaven", youtubeId: "QkF3oxziUI4" },
     { title: "The Beatles - Hey Jude", youtubeId: "A_MjCqQoLLA" },
     { title: "AC/DC - Back in Black", youtubeId: "pAgnJDJN4VA" },
     { title: "Nirvana - Smells Like Teen Spirit", youtubeId: "hTWKbfoikeg" },
@@ -9,7 +9,7 @@ export const genres = {
     { title: "Guns N' Roses - Sweet Child O' Mine", youtubeId: "1w7OgIMMRc4" },
     { title: "Eagles - Hotel California", youtubeId: "098391Q9_0" },
     { title: "Pink Floyd - Another Brick in the Wall", youtubeId: "YR5ApYxkU-U" },
-    { title: "Jimi Hendrix - All Along the Watchtower", youtubeId: "TLV4_xaYynY" }
+    { title: "Jimi Hendrix - All Along the Watchtower", youtubeId: "bT7Hj-ea0VE" }
   ],
   "Pop": [
     { title: "Michael Jackson - Billie Jean", youtubeId: "Zi_XLOBDo_Y" },
