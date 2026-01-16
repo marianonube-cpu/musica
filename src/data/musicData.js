@@ -39,12 +39,12 @@ export const genres = {
     { title: "Daft Punk - Around the World", youtubeId: "LKYPYj2X80" },
     { title: "The Chemical Brothers - Galvanize", youtubeId: "Xu3FTEmN-eg" },
     { title: "Fatboy Slim - Praise You", youtubeId: "ruAi4VboBSM" },
-    { title: "Aphex Twin - Windowlicker", youtubeId: "UBS4Gi1A_M" },
+    { title: "Aphex Twin - Windowlicker", youtubeId: "JZqG66_n3-U" },
     { title: "Kraftwerk - The Robots", youtubeId: "D_8Pma1vHmw" },
     { title: "Skrillex - Bangarang", youtubeId: "YJVmu6yttiw" },
     { title: "deadmau5 - Strobe", youtubeId: "tKi9Z-f6qX4" },
     { title: "Avicii - Levels", youtubeId: "_ovdm2yX4MA" },
-    { title: "Justice - D.A.N.C.E.", youtubeId: "sy1dYFGkPUE" },
+    { title: "Justice - D.A.N.C.E.", youtubeId: "0qXdyb1C-iA" },
     { title: "Underworld - Born Slippy", youtubeId: "TlLWFa1b1iE" }
   ],
   "Reggaetón": [
